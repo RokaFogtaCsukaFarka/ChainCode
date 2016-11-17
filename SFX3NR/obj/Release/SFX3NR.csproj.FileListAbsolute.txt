@@ -1,0 +1,6 @@
+C:\Egyetem\OE_NIK\Programozas1\2016\Beadando\SFX3NR\SFX3NR\bin\Release\SFX3NR.exe.config
+C:\Egyetem\OE_NIK\Programozas1\2016\Beadando\SFX3NR\SFX3NR\bin\Release\SFX3NR.exe
+C:\Egyetem\OE_NIK\Programozas1\2016\Beadando\SFX3NR\SFX3NR\bin\Release\SFX3NR.pdb
+C:\Egyetem\OE_NIK\Programozas1\2016\Beadando\SFX3NR\SFX3NR\obj\Release\SFX3NR.csprojResolveAssemblyReference.cache
+C:\Egyetem\OE_NIK\Programozas1\2016\Beadando\SFX3NR\SFX3NR\obj\Release\SFX3NR.exe
+C:\Egyetem\OE_NIK\Programozas1\2016\Beadando\SFX3NR\SFX3NR\obj\Release\SFX3NR.pdb
