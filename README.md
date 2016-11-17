@@ -1,4 +1,4 @@
-# Lanckod
+# Chain code
 University Project of C#
 
 This project is about generating a chain-code from a text file given
@@ -19,3 +19,4 @@ The chain-code traversing is of a clockwise manner. It has eight directions star
 which is No. 1 and the numbers are inscreasing anti-clockwise.
 
 There are some test files provided in the /bin/Debug/fajlok directory.
+
